@@ -5,7 +5,7 @@ email: okggnow@gmail.com
 description: "A Google Fans Blog."
 keywords: "jekyll, Google, material, Android"
 #url: "http://okgnow.com.br/" # the base hostname & protocol for your site
-url: "http://okgnow.com.br/" # the base hostname & protocol for your site
+url: "http://okgnow.com.br" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 10
 paginate_path: "page:num"
