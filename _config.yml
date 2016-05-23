@@ -29,5 +29,5 @@ full_name: Brijesh
 disqus: okgnow
 
 ##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: bitwiser.in
+ga_id: UA-45575876-4
+ga_domain: okgnow.com.br
