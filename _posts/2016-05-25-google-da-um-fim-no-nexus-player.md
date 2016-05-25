@@ -1,7 +1,7 @@
 ---
 layout: post
 color: red
-cover: "http://im.ziffdavisinternational.com/t/ign_pt/news/n/netflix-in/netflix-intends-to-stop-subscribers-using-internat_6m37.1920.jpg"
+cover: "http://icdn9.digitaltrends.com/image/google-nexus-player-kit-1500x1000.jpg"
 title:  "Google da um fim no Nexus Player"
 date:   2016-05-25 09:00:00
 categories: Google
