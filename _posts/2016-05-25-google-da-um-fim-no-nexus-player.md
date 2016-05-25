@@ -5,7 +5,7 @@ cover: "http://im.ziffdavisinternational.com/t/ign_pt/news/n/netflix-in/netflix-
 title:  "Google da um fim no Nexus Player"
 date:   2016-05-25 09:00:00
 categories: Google
-tags: Netflix Filmes Disney Marvel pixar
+tags: Android TV Google Nexus Player
 ---
 Depois de 2 anos a Google tira de linha seu primeiro setup-box o Nexus Player, apos uma grande quantidade de lojas pararem de vender o produto e ele se tornar "Meio Ultrapassado".Ainda é possivel encontrar em algumas lojas nos EUA a venda, mais acredita-se que aos poucos elas vão deixar de anunciar o produto.
 
