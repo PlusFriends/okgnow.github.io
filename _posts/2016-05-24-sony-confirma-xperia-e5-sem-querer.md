@@ -13,7 +13,7 @@ O smartphone que parece ser muito simples e bonito, e conhecido internamente pel
 
 <ul>
 <li>Sistema operacional: Android Marshmallow (6.0)</li>
-<li>Tela: 4,6" HD (720p)</li>
+<li>Tela: 4,6 pol HD (720p)</li>
 <li>Processador: MediaTek MT6735 quad-core</li>
 <li>Memória RAM: 1,5 GB</li>
 <li>Armazenamento interno: 16 GB</li>
