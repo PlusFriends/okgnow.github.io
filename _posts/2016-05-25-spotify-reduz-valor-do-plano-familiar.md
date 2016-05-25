@@ -14,3 +14,15 @@ Isto acontecepara que o serviço possa concorrer de igual para igual com outros 
 O novo valor do Spotify já está disponível para todos os brasileiros. ja os concorrentes como o Google Play Música cobra R$ 22,90, enquanto o Apple Music sai por US$ 7,99 (variando emtre 30 e 32 reais, dependendo do dólar). Já Deezer e Groove não oferecem descontos para assinaturas conjuntas.
 
 Fonte: <a href="https://tecnoblog.net/195908/spotify-premium-plano-familia-mais-barato/">Tecnoblog</a>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Final_texto_okgnow -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7837358846130941"
+     data-ad-slot="9265933715"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
