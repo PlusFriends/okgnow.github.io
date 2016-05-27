@@ -11,7 +11,7 @@ Depois de um tempo fora da ativa parece que o WhatsApp Gold voltou a ser compart
 
 A mensagem que anda circulando promete chamadas em video chamadas, envio de até 100 imagens de uma só vez e a possibilidade de apagar mensagens mesmo depois de enviadas, a mensagem afirma que essa verção é apenas utilizada por celebridades assim tornando tentadora a suposta adesão.
 
-<img src="https://imgnzn-a.akamaized.net/2016/05/24/24180055245525.jpg?w=1040" align="middle">
+<img src="https://imgnzn-a.akamaized.net/2016/05/24/24180055245525.jpg?w=1040" align="middle" width="200">
 
 Logo Após a mensagem vemos um link que na verdade esta baixando um malware que permite que seja roubado arquivos e dados do usuario alem de possibilitar o controle do telefone remotamente.
 
