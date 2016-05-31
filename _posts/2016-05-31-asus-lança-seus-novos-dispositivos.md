@@ -11,6 +11,8 @@ Ontem Segunda-Feira(30/05/2016), a Asus apresentou sua nova geração de Smartph
 
 Todos modelos possuem leitor de digitais na parte trazeira, tela curvada, USB-C alem de contar com Android 6.0(Marshmallow). Custando a partir de US$ 249 indo até US$ 499 no modelo Deluxe, temos não só um smartphone parrudo e sim três! Veja abaixo as especificações dos dispositivos:
 
+<img src="http://fs01.androidpit.info/userfiles/7182927/image/androidpit-asus-zenfone-3-w782.jpg" align="middle" width="50%">
+
 <strong>Assus Zenfone 3:</strong>
 <ul>
 <li>Tela: IPS de 5,5 polegadas com resolução de 1920×1080 pixels;</li>
