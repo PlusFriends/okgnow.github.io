@@ -3,6 +3,7 @@ layout: post
 color: grey
 cover: "https://9to5google.files.wordpress.com/2016/06/screen-shot-2016-06-02-at-8-20-21-pm.png?w=1500&h=0#038;h=474"
 title:  "Unicode anuncia novos Emojis"
+author: Rychillie
 date:   2016-06-03 09:00:00
 categories: Unicode
 tags: Unicode Emoji novos
