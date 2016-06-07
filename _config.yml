@@ -34,6 +34,14 @@ authors:
     web: http://rychillie.github.com
     twitter: @rychillie
     github: rychillie
+  Marcos:
+    name: Marcos Oliveira
+    display_name: Marcos
+    gravatar: 7bde70cef21504f784f19184a4f13153
+    email: No-Email
+    web: No-Website
+    twitter: No-Twitter
+    github: No-Gitgub
 
 ##set this to enable disqus commenting
 disqus: okgnow
