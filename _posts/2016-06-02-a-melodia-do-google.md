@@ -3,7 +3,6 @@ layout: post
 color: grey
 cover: "http://www.exchangewire.com.br/wp-content/uploads/2016/02/google.jpg"
 title:  "A melodia do Google"
-author: Marcos
 date:  2016-06-02 09:00:00
 categories: Sony
 tags: Melodia Musica Google Super computador compos
