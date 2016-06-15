@@ -3,7 +3,7 @@ layout: post
 color: light-blue
 cover: "http://cdn1.knowyourmobile.com/sites/knowyourmobilecom/files/6/72/Android-versus-iOS.jpg"
 title:  "5 novos recursos do iOS 10 que a Apple copiou do Android"
-date:   2016-06-15 12:00:00
+date:   2016-06-14 12:00:00
 categories: Apple
 tags: Apple IOS 10 Andoid copia
 ---
