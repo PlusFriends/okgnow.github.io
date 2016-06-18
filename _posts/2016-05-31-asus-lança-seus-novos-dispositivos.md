@@ -3,6 +3,7 @@ layout: post
 color: light-blue
 cover: "https://9to5google.files.wordpress.com/2016/05/zenfone-3-family1.jpg?w=1500&h=0#038;h=563"
 title:  "Asus lança seus novos dispositivos."
+author: Rychillie
 date:   2016-05-31 09:00:00
 categories: Asus
 tags: Asus Zenfone Zenfone3 Deluxe Ultra
