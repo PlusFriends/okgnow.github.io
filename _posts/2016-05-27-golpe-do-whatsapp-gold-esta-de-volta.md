@@ -3,6 +3,7 @@ layout: post
 color: lime
 cover: "https://imgnzn-a.akamaized.net/2016/05/24/24180055245525.jpg?w=1040"
 title: "Golpe do WhatsApp Gold esta de volta!"
+author: Rychillie
 date: 2016-05-27 09:00:00
 categories: WhatsApp
 tags: WhatsApp golpe mensageiro
