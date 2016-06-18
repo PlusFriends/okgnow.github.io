@@ -3,6 +3,7 @@ layout: post
 color: red
 cover: "http://im.ziffdavisinternational.com/t/ign_pt/news/n/netflix-in/netflix-intends-to-stop-subscribers-using-internat_6m37.1920.jpg"
 title:  "Netflix séra canal exclusivo para a Disney!"
+author: Rychillie
 date:   2016-05-24 09:00:00
 categories: Netflix
 tags: Netflix Filmes Disney Marvel pixar
