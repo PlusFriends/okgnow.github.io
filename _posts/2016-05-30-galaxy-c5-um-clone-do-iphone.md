@@ -3,6 +3,7 @@ layout: post
 color: pink
 cover: "https://i1.wp.com/macmagazine.com.br/wp-content/uploads/2016/05/28-samsung.png?w=1528&ssl=1"
 title: "Galaxy C5, um clone do Iphone"
+author: Rychillie
 date: 2016-05-30 09:00:00
 categories: Sansung
 tags: Sansung Galaxy C5 Iphone Clone Apple
