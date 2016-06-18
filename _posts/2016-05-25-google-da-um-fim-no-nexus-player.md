@@ -3,6 +3,7 @@ layout: post
 color: red
 cover: "http://icdn9.digitaltrends.com/image/google-nexus-player-kit-1500x1000.jpg"
 title:  "Google da um fim no Nexus Player"
+author: Rychillie
 date:   2016-05-25 09:00:00
 categories: Google
 tags: Android TV Google Nexus Player
