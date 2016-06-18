@@ -26,7 +26,19 @@ links:
 exclude:
   - bower_components
   - README.md
-full_name: Rychillie
+authors:
+  Rychillie:
+    name: Rychillie Umpierre de Oliveira
+    display_name: Rychillie
+    email: rychillie@hotmail.com
+    twitter: @rychillie
+    github: rychillie
+  Marcos:
+    name: Marcos Vinicios de Oliveira
+    display_name: Marquinhos
+    email: mk@hotmail.com
+    twitter: @mk
+    github: mk
 
 ##set this to enable disqus commenting
 disqus: okgnow
