@@ -3,6 +3,7 @@ layout: post
 color: light-blue
 cover: "https://9to5google.files.wordpress.com/2016/06/facebook-messenger-sms.png?w=1500&h=0#038;h=500"
 title:  "Usuários do Facebook Messenger para Android podem enviar e receber SMS"
+author: Marcos
 date:   2016-06-15 09:00:00
 categories: Facebok
 tags: Facebook Android Meseeger SMS
