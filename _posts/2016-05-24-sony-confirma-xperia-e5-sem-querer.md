@@ -3,6 +3,7 @@ layout: post
 color: blue-grey
 cover: "https://imgnzn-a.akamaized.net/2016/05/24/24092916472002.jpg?w=1040"
 title:  "Sony confirma Sem Querer Xperia E5  "
+author: Rychillie
 date:   2016-05-24 10:00:00
 categories: Sony
 tags: Android Sony Xperia E5 Facebook
