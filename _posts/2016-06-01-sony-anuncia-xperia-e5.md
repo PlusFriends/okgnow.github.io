@@ -3,6 +3,7 @@ layout: post
 color: grey
 cover: "http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/05/sony-xperia-e5.jpg?itok=v7c4qrzR"
 title:  "Sony anuncia Xperia E5."
+author: Rychillie
 date:   2016-06-01 09:00:00
 categories: Sony
 tags: Sony Xperia E5 Novidade
