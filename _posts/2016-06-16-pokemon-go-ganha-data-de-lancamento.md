@@ -3,7 +3,7 @@ layout: post
 color: light-blue
 cover: "http://media.nintendo.com/e3/e3-assets/images/games/pokemon-go-plus/hero-landscape-1368.jpg"
 title:  "Pokemon Go ganha data de lançamento"
-post_author: Rychillie
+author: Rychillie
 date:   2016-06-16 12:00:00
 categories: Nintendo
 tags: Nintendo Pokemon Go Android IOS Game Lançamento
