@@ -2,6 +2,8 @@
 layout: base
 ---
 <body style="padding: 0">
+  
+  {% assign author = site.authors[page.author] %}
 
   <article class="post-full">
     <header class="bg-holder post-page {% if page.color %}bg-{{ page.color }}{% endif %}" style="{% if page.cover %}background:url({{page.cover}}) no-repeat center center; background-size: cover{% endif %}">
