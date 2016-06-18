@@ -3,6 +3,7 @@ layout: post
 color: teal
 cover: "https://img.vivaolinux.com.br/imagens/dicas/comunidade/spotify-logo-horizontal-black.jpg"
 title:  "Spotify reduz plano familiar"
+author: Rychillie
 date:   2016-05-25 12:00:00
 categories: Spotify
 tags: Streaming Spotify musica preço queda
