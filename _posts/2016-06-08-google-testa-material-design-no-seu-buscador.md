@@ -3,6 +3,7 @@ layout: post
 color: light-blue
 cover: "https://9to5google.files.wordpress.com/2016/06/web-md.jpg?w=1500&h=0#038;h=500"
 title:  "Google testa Material Design no seu buscador"
+author: Rychillie
 date:   2016-06-08 09:00:00
 categories: Google
 tags: material design google
