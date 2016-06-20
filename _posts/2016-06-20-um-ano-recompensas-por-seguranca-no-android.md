@@ -16,6 +16,7 @@ Para se ter uma ideia do investimento foram pagos US$ 550.000 para 82 indivíduo
 
 Fontes: <a href="https://security.googleblog.com/2016/06/one-year-of-android-security-rewards.html">Google</a>
 
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"
