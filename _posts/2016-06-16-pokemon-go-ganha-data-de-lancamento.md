@@ -20,7 +20,7 @@ Esta é mais uma investida da Nintendo na area mobile que anda crescendo muito p
 
 O jogo e a pulseira estarão disponiveis para o Publico apartir de julho deste ano(07/2016) para todo o mundo.
 
-Fontes: <a href="US$ 34,99">Nintendo</a> e <a href="http://games.tecmundo.com.br/noticias/prepare-pokemon-go-chega-julho-2016_823652.htm">Tecmundo Games</a>
+Fontes: <a href="http://e3.nintendo.com/games/pokemon-go-plus/">Nintendo</a> e <a href="http://games.tecmundo.com.br/noticias/prepare-pokemon-go-chega-julho-2016_823652.htm">Tecmundo Games</a>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
