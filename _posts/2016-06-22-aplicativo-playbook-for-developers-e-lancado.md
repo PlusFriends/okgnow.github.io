@@ -7,9 +7,9 @@ date:   2016-06-22 14:00:00
 categories: Android
 tags: Android Google aplicativo lançamento livro
 ---
-Durante a Google I/O 2016 foi anunciado que o Playbook For Developers.
+Durante a Google I/O 2016 foi anunciado que o Playbook For Developers teria seu próprio aplicativo, juntamente ganhando seu primeiro beta. E agora esta disponivel para download na Google Play.
 
-Um livro que contem dicas para desenvolvedores terem um melhor aproveitamento da Google Play, teria seu próprio aplicativo, trazendo maior interatividade e facilidade para o uso no dia-a-dia, juntamente ele traz suporte a multilinguagens, incluindo o Português.
+O Playbook For Developers é um livro que contem dicas para desenvolvedores terem um melhor aproveitamento da Google Play, trazendo maior interatividade e facilidade para o uso no dia-a-dia, juntamente ele traz suporte a multilinguagens, incluindo o Português.
 
 É possivel encontrar o aplicativo na Google Play Gratuitamente ou através deste <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.secrets&hl=pt-br">Link</a>.
 
