@@ -3,6 +3,7 @@ layout: post
 color: light-blue
 cover: "https://lh3.googleusercontent.com/Twhza-eYIloZvDS0JKqDBtO4Wa9uV_5zcrWWHakypyvrFaHeQceLnNoAXqcviWkxjQc=h900-rw"
 title:  "Aplicativo Playbook for Developers é lançado"
+author: Rychillie
 date:   2016-06-22 14:00:00
 categories: Android
 tags: Android Google aplicativo lançamento livro
