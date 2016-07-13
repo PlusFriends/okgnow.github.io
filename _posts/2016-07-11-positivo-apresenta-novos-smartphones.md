@@ -9,11 +9,11 @@ categories: Android
 tags: Google Android Positivo novos smartphone
 ---
 Pensando no publico brasileiro a Positivo anuncia sua nova linha de smartphones, batizada de Positivo Twist. A linha é composta por três modelos, cada um com uma característica especial. A grande novidade é que os aparelhos vêm com a opção de poder alterar sua tampatraseira com alguma extra que vem em sua caixa, podendo ser dourada, azul ou vermelha.
- 
+
 Os novos celulares Positivo Twist têm suporte a Dual SIM alem de conta com uma tela de 5 polegadas, sistema operacional Android 6.0 (Marshmallow), processador quad-core de 1.3GHz na versão 3G e 1.0GHz na versão 4G, conectividade Wi-Fi e Bluetooth, conector para cartão micro SD externo até 32GB e micro USB (2.0) para dados, cabo USB, fone de ouvido e película protetora.
 
 O primeiro dos modelos, o Positivo Twist M, foi pensado para o usuário que precisa de mais espaço interno para seus arquivos, sejam eles aplicativos, jogos, músicas, fotografias ou vídeos. Possui capacidade de armazenamento interno de 16GB. Já o Positivo Twist S tem foco em fãs de selfies, pois ele esta equipado com uma câmera frontal de 8MP, sua câmera principal conta com zoom digital 4x com flash, 8MP e gravação de vídeo. E por ultimo, o Positivo Twist 4G é o modelo mais completo, pois conta com conectividade 4G.
- 
+
 O Positivo Twist M e o Positivo Twist S chegam ao varejo a partir deste mês com preço sugerido de R$ 649. O modelo Positivo Twist 4G começa a ser vendido em breve pelo preço sugerido de R$ 699.
 
 <img src="http://news.mundopositivo.com.br/noticia/2016/07/Packshot_Twist.jpg?1468267630" align="middle" width="50%">
