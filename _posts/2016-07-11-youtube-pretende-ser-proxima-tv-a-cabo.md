@@ -12,7 +12,7 @@ O Youtube pode estar se preparando apra tambem disponibilizar canais de TV em se
 
 Segundo informações ESPN, ABC e CBS, já estariam trabalhando junto da Google para trazer a plataforma, que pode ter seu começo nos EUA. A plataforma se chamaria Youtube Unplugged("desplugado") e forneceria uma assinatura de US$35 por mês. O mais interes
 
-- O que eu acho mais bacana nesta plataforma é a possibilidade de assistir televisão em Setup-Boxes, no qual eu acredito que seja o futuro para a Televisão!
+-O que eu acho mais bacana nesta plataforma é a possibilidade de assistir televisão em Setup-Boxes, no qual eu acredito que seja o futuro para a Televisão!
 
 Fontes: <a href="http://www.theverge.com/2016/7/8/12130470/youtube-tv-service-espn-abc-cbs-next-year-report">TheVerge</a>
 
