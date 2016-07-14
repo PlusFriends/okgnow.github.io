@@ -10,7 +10,7 @@ tags: Google Youtube Televisão cabo streaming
 ---
 O Youtube pode estar se preparando apra tambem disponibilizar canais de TV em seu site através de uma assinatura mensal. A ideia é que as pessoas podem acessar seus canais prediletos em qualquer lugar via Streaming.
 
-Segundo informações ESPN, ABC e CBS, já estariam trabalhando junto da Google para trazer a plataforma, que pode ter seu começo nos EUA. A plataforma se chamaria Youtube Unplugged("desplugado") e forneceria uma assinatura de US$35 por mês. O mais interes
+Segundo informações ESPN, ABC e CBS, já estariam trabalhando junto da Google para trazer a plataforma, que pode ter seu começo nos EUA. A plataforma se chamaria Youtube Unplugged("desplugado") e forneceria uma assinatura de US$35 por mês.
 
 -O que eu acho mais bacana nesta plataforma é a possibilidade de assistir televisão em Setup-Boxes, no qual eu acredito que seja o futuro para a Televisão!
 
