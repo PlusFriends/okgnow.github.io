@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/youtubegif-1200x674.gif"
+cover: "https://s3.amazonaws.com/mas-google/Indie_Games_Fest_2016/Indie_Games_Festival_Full_+Banner_No_Logo_2350x800.png"
 title:  "Google Anuncia Indie Games Festival"
 author: Rychillie
 date:   2016-07-14 12:00:00
