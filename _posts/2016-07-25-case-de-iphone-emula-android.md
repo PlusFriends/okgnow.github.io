@@ -6,7 +6,7 @@ title:  "Case de Iphone Emula Android"
 author: Rychillie
 date:   2016-07-25 08:00:00
 categories: Android Iphone
-tags: Android Iphone Case emulador
+tags: Android Iphone Case emulador Ios Apple
 ---
 Parece piada mais foi lançado uma case de Iphone que traz consigo a capacidade de rodar Android no dispositivo da Apple.
 
