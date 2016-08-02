@@ -10,7 +10,7 @@ tags: Google Maps olimpiadas rio janeiro 2016
 ---
 A Google afirmou que para a Olimpíada do Rio de Janeiro sera possivel através do seu sistema de buscas da companhia, você vai poder conferir detalhes sobre os horários das competições, quais são os atletas participantes de cada evento e a contagem de medalhas de cada país.
 
-Também será possivel configurar o recebimento de notificações no Android e no iOS para alertar sobre eventos ou notícias consideradas de seu interesse. A empresa também vai oferecer conteúdos de destaque selecionados entre mais de 60 veículos da imprensa mundial através do YouTube — o site de vídeos também vai oferecer transmissões ao vivo feitas por 15 produtores de conteúdo.
+Também será possivel configurar o recebimento de notificações no Android e no iOS para alertar sobre eventos ou notícias consideradas de seu interesse. A empresa também vai oferecer conteúdos de destaque selecionados entre mais de 60 veículos da imprensa mundial através do YouTube o site de vídeos também vai oferecer transmissões ao vivo feitas por 15 produtores de conteúdo.
 
 Fontes: <a href="https://googleblog.blogspot.com.br/2016/08/let-google-be-your-guide-to-rio-de.html">Google</a>
 
