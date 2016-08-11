@@ -4,7 +4,7 @@ color: light-blue
 cover: "http://img1.olhardigital.uol.com.br/uploads/acervo_imagens/2016/08/20160811110535_660_420.jpg"
 title:  "Atualização do Google Docs traz suporte ao Split View no iPad Pro"
 author: Rychillie
-date:   2016-08-1 11:30:00
+date:   2016-08-11 11:30:00
 categories: Apple
 tags: Google Docs Split View atualização Ipad Pro Apple
 ---
