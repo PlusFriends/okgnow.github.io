@@ -10,7 +10,7 @@ tags: Google Musica Good Fest festival
 ---
 Cada vez mais é possivel acompanhar shows e eventos de diversos tipos no Youtube, e agora a Google tambem entrou nesta onda com o Good Fest, seu primeiro festival de musica.
 
-O evento é é uma parceria da Google com a revista GOOD e está agendada para esta semana ao todo, o festival deve contar com cinco concertos únicos e presenciais nos quais toda a arrecadação vai ser redirecionada a ONGs escolhidas pelos próprios artistas que se apresentarem.
+O evento é uma parceria da Google com a revista GOOD e está agendada para esta semana ao todo, o festival deve contar com cinco concertos únicos e presenciais nos quais toda a arrecadação vai ser redirecionada a ONGs escolhidas pelos próprios artistas que se apresentarem.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SNEVxp6tQcE" frameborder="0" allowfullscreen></iframe>
 
