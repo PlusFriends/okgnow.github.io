@@ -18,7 +18,7 @@ Parece estranho mais é isso mesmo, vamos poder jogar classicos do fliperama com
 
 Está atualização faz parte de uma série de atualizações que o Facebook vem trazendo para seu mensageiro afim de transformar seu aplicativo de mensagens em algo amais do que um mensageiro, e sim uma "Central de Interassão" no qual alem de conversar agora poderemos jogar com nossos amigos.
 
-Fonte: <a href="http://newsroom.fb.com/news/2016/11/game-on-you-can-now-play-games-on-messenger/">Test</a>
+Fonte: <a href="http://newsroom.fb.com/news/2016/11/game-on-you-can-now-play-games-on-messenger/">Facebook</a>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
