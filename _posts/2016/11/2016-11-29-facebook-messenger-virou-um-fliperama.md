@@ -6,7 +6,7 @@ title:  "Facebook Messenger virou um fliperama?"
 author: Rychillie
 date:   2016-11-29 18:00:00
 categories: Facebook
-tags: Facebook Messenger aplicativo comunicacao jogos bots chat mensageiro
+tags: Facebook Messenger aplicativo comunicacao jogos chat
 ---
 Praticamente todos temos o aplicativo do Messenger instalado no smartphone, como a WhatsApp ele é essencial para comunicação com familia e amigos, e agora vamos poder jogar classicos de fliperama diretamente no aplicativo.
 
