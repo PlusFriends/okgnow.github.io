@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "http://www.hdwallpapersnews.com/wp-content/uploads/2015/03/Nokia-Logo-HD-Wallpapers.png"
+cover: "https://portal.zwame.pt/wp-content/uploads/2015/06/Nokia-Logo.jpg"
 title:  "A Nokia Voltou!"
 author: Rychillie
 date:   2016-12-01 12:00:00
