@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "http://www.hdwallpapersnews.com/wp-content/uploads/2015/03/Nokia-Logo-HD-Wallpapers.png"
+cover: "https://portal.zwame.pt/wp-content/uploads/2015/06/Nokia-Logo.jpg"
 title:  "Vazam especificações de suposto smartphone top de linha da Nokia"
 author: Rychillie
 date:   2016-11-28 11:00:00
