@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "http://www.hdwallpapersnews.com/wp-content/uploads/2015/03/Nokia-Logo-HD-Wallpapers.png"
+cover: "https://portal.zwame.pt/wp-content/uploads/2015/06/Nokia-Logo.jpg"
 title:  "Preço do Nokia D1C vaza e revela que smartphone será um intermediário"
 author: Rychillie
 date:   2016-12-12 13:00:00
