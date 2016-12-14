@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "https://portal.zwame.pt/wp-content/uploads/2015/06/Nokia-Logo.jpg"
+cover: "https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif"
 title:  "Pergunta da entrevista de emprego do Google confunde até o ex-CEO da empresa"
 author: Rychillie
 date:   2016-12-12 15:00:00
