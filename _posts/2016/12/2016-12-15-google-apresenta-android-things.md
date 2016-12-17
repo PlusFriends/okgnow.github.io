@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "http://optclean.com.br/wp-content/uploads/2016/07/Google-Play-Music.png"
+cover: "https://developer.android.com/things/images/hero.jpg"
 title:  "Android Things: o sistema operacional da Google para a Internet das Coisas"
 author: Rychillie
 date:   2016-12-15 12:00:00
