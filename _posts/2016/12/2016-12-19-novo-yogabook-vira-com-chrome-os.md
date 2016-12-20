@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "https://cdn0.vox-cdn.com/thumbor/Hl6ZRum-wE1oxoreM…age/image/52321895/lenovo-yoga-book-7347.0.0.jpeg"
+cover: "https://cdn0.vox-cdn.com/uploads/chorus_image/image/52321895/lenovo-yoga-book-7347.0.0.jpeg"
 title:  "Novo YogaBook pode ter opção com Chrome OS"
 author: Rychillie
 date:   2016-12-19 18:00:00
