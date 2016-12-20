@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "https://s.aolcdn.com/hss/storage/midas/31562842023032c3972674d4b20d74e0/204713959/androidauto-ed.jpg"
+cover: "http://img1.olhardigital.uol.com.br/uploads/acervo_imagens/2016/03/20160330193033_660_420.jpg"
 title:  "Ok Google agora funciona no Android Auto"
 author: Rychillie
 date:   2016-12-16 13:00:00
