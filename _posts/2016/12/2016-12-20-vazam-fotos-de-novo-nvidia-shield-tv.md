@@ -4,7 +4,7 @@ color: light-blue
 cover: "https://www.androidpolice.com/wp-content/uploads/2016/12/nexus2cee_5709686frD.jpg"
 title:  "Vazam fotos de novo Nvidia Shield TV"
 author: Rychillie
-date:   2016-12-19 13:00:00
+date:   2016-12-20 13:00:00
 categories: Android
 tags: Android Novo Nvidia Shield TV console video game
 ---
