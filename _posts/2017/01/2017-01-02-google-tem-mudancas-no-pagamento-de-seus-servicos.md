@@ -8,7 +8,7 @@ date:   2017-01-02 18:00:00
 categories: Google
 tags: Google Play Drive Store Pagamento assinatura operadoras
 ---
-O ano de 2017 começa com várias mudanças na Google perincipalmente na área de pagamentos de seus serviços como Google Drive e a própria Google Play Store.
+O ano de 2017 começa com várias mudanças na Google principalmente na área de pagamentos de seus serviços como Google Drive e a própria Google Play Store.
 
 <img src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2017/01/play-store-carrier-billing-airtel-india.jpg?itok=lu4tOwjO">
 
