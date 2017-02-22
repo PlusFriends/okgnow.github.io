@@ -6,7 +6,7 @@ title: "Instagram lança recurso de álbum para compartilhar até 10 fotos de um
 author: Rychillie
 date:   2017-02-22 16:00:00
 categories: Instagram
-tags: Android ios Instagram Facebook Telegram Themes novidade atualizacao fotografia rede social
+tags: Android ios Instagram Facebook novidade atualizacao fotografia rede social
 ---
 O Instagram lançou nesta quarta-feira(22) um recurso de álbum de imagens que permite compartilhar até 10 fotos ou vídeos na mesma publicação. A novidade, que começou a ser testada com um pequeno grupo de pessoas há algumas semanas, agora está sendo liberada para todos os usuários de Android e iPhone.
 
