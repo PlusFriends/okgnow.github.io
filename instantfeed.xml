@@ -1,15 +1,6 @@
 ---
 layout: null
 ---
-
-<!--
-Facebook instant articles rss feed generator
-author: Amit Seal Ami
-https://github.com/lordamit/
-version: 1.0
-Please include your site in https://github.com/lordamit/jekyll-instant-article-facebook/wiki/Sites-using-jekyll-instant-article-facebook if you are using this. Feel free to remove this comment :) 
--->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -84,3 +75,11 @@ Please include your site in https://github.com/lordamit/jekyll-instant-article-f
     {% endfor %}
   </channel>
 </rss>
+
+<!--
+Facebook instant articles rss feed generator
+author: Amit Seal Ami
+https://github.com/lordamit/
+version: 1.0
+Please include your site in https://github.com/lordamit/jekyll-instant-article-facebook/wiki/Sites-using-jekyll-instant-article-facebook if you are using this. Feel free to remove this comment :) 
+-->
