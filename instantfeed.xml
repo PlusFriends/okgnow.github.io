@@ -16,7 +16,9 @@ layout: null
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
       <content:encoded>
+        <![CDATA[
         {{ post.content }}
+        ]]>
       </content:encoded>
       <guid isPermaLink="false">{{ post.url }}</guid>
       <description>
