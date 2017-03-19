@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "https://upload.wikimedia.org/wikipedia/en/7/7f/Google_Play.png"
+cover: "https://tecnoblog.net/wp-content/uploads/2017/02/skype-lite-700x394.jpg"
 title:  "Microsoft lança Skype Lite uma aposta para mercados emergentes"
 author: Rychillie
 date:   2017-02-22 12:00:00
