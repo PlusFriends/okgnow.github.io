@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "http://www.pixelstalk.net/wp-content/uploads/2016/05/Youtube-Backgrounds-Pictures-Download.jpg"
+cover: "https://tecnoblog.net/wp-content/uploads/2017/02/google_spaces.jpg"
 title:  "Xau Google Spaces"
 author: Rychillie
 date:   2017-02-27 12:00:00
