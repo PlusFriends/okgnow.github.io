@@ -19,7 +19,7 @@ O jogo nada mais é que um “Runner” um jogo que você segue uma direção, d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pS3FRgZAsH0" frameborder="0" allowfullscreen></iframe>
 
-O jogo terá uma parte dele gratuita para ser testada é jogada, que podemos chamar de demo, após isso deverá ser pago uma quantia(que no IOS é 10 Trumps) para liberar o jogo por completo. Para acessar a página do jogo basta Clicar Aqui que será direcionado para o site do desenvolvedor!
+O jogo terá uma parte dele gratuita para ser testada é jogada, que podemos chamar de demo, após isso deverá ser pago uma quantia(que no IOS é 10 Trumps) para liberar o jogo por completo. Para acessar a página do jogo basta <a href="https://supermariorun.com/pt-br/">Clicar Aqui</a> que será direcionado para o site do desenvolvedor!
 
 Fonte: <a href="https://twitter.com/NintendoAmerica/status/842891765271023616?ref_src=twsrc%5Etfw">Nintedo</a>
 
