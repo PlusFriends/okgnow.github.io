@@ -4,7 +4,7 @@ color: light-blue
 cover: "http://img.talkandroid.com/uploads/2016/12/Samsung.jpg"
 title:  "Samsung Confirma que vai Revender ou Reciclar o Galaxy Note 7"
 author: Rychillie
-date:   2017-03-28 09:00:00
+date:   2017-03-28 12:00:00
 categories: Samsung
 tags: Samsung Galaxy Note seven sete explode kabum
 ---
