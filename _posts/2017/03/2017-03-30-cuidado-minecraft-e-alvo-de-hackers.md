@@ -16,7 +16,7 @@ Segundo um relatório da empresa de segurança ESET, foram identificados nada me
 
 Vale ressaltar que a maioria dos apps falsos, que imitam mods de Minecraft, foram publicadas na Play Store entre janeiro e março de 2017. Eles passaram pelo crivo do Google e ficaram disponíveis para download. Ao serem abertos, exibem nada além de um botão para acionar os mecanismos de ataque ao aparelho ou redirecionar para sites infectados que se disfarçam como instalação do suposto Mod.
 
-<iframe src="https://www.youtube.com/watch?v=H1q-I2QQOtc"></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/H1q-I2QQOtc" frameborder="0" allowfullscreen></iframe>
 
 Ainda não há uma maneira eficaz de se proteger dos apps falsos, a não ser evitar aqueles aplicativos com poucas avaliações positivas, recentes demais e provenientes de desenvolvedores desconhecidos. Como sempre, também é altamente não recomendado baixar apps de fora da Google Play. Se dentro da loja o controle não é tão rigoroso, ele é completamente nulo em sites de terceiros.
 
