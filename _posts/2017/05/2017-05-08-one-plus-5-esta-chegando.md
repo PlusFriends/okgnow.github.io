@@ -2,7 +2,7 @@
 layout: post
 color: light-blue
 cover: "http://adrenaline.uol.com.br/admin/files/sysmidia/Z1a3WZ2Da4cy6Z4b4CbaxZc3w85C1b/OnePlus5_prevenda_chamada.jpg"
-title: "mais vazamento e OnePlus 5 ganha data de lançamento"
+title: "Mais vazamento e OnePlus 5 ganha data de lançamento"
 author: Rychillie
 date:   2017-05-08 10:00:00
 categories: Android
