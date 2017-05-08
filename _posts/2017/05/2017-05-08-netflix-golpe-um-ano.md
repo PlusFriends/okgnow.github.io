@@ -16,7 +16,7 @@ Uma suposta promoção do Netflix apareceu no Whatsapp no dia 05 de maio de 2017
 
 <img src="http://www.e-farsas.com/wp-content/uploads/netflix.jpg">
 
-###Como funciona o golpe?
+<h3>Como funciona o golpe?</h3>
 Entrando no site da promoção falsa e clicando em “Assista grátis por um ano”, o usuário é redirecionado para uma página que simula a disponibilidade de contas grátis na sua região:
 
 <img src="http://www.e-farsas.com/wp-content/uploads/netfiix2.jpg">
@@ -37,7 +37,7 @@ Se o usuário insistir em clicar no botão “Ativar conta Netflix” por mais d
 
 <a href="https://www.netflix.com/br/" target="_blank">No site oficial da Netflix não há nenhuma menção a essa promoção</a> que dá um ano grátis. Há somente a promoção costumeira que oferece um mês do serviço para novos usuários.  
 
-###Conclusão
+<h3>Conclusão</h3>
 A Netflix não está dando contas com um ano de mensalidade grátis! Muito cuidado para não cair em golpes! E NÃO COMPARTILHE até você ter certeza que uma promoção está realmente em vigor!
 
 Fonte: <a href="http://www.e-farsas.com/netflix-esta-dando-1-ano-de-graca-olha-o-golpe.html">E-Farsas</a>
