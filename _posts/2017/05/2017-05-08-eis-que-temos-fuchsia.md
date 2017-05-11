@@ -26,8 +26,3 @@ O sistema operacional está em fase de pré-desenvolvimento, ou seja, ele pode n
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
-Fonte: <a href="http://www.tudocelular.com/android/noticias/n92791/youtube-mudanca-janela.html">Tudocelular</a>
-<img src="http://i2.tudocdn.net/img/max_width1000/id240191_1.jpg">
-<figure><img src="http://i2.tudocdn.net/img/max_width1000/id240191_1.jpg"></figure>
