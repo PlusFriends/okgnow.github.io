@@ -1,7 +1,7 @@
 # Site settings
 ## Change the values as needed.
 title: OkGNow
-email: okgnow@okgnow.com
+email: rychillie@hotmail.com
 description: "A Google Fans Blog."
 keywords: "jekyll, Google, material, Android"
 #url: "http://okgnow.com.br/" # the base hostname & protocol for your site
@@ -22,7 +22,7 @@ links:
   facebook: okgnow
   twitter: okggnow
   email: rychillie@hotmail.com
-  github: okgnow
+  github: PlusFriends/okgnow.github.io
 exclude:
   - bower_components
   - README.md
