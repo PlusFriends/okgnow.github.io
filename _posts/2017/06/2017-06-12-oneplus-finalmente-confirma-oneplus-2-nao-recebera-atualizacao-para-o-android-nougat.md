@@ -2,7 +2,7 @@
 layout: post
 color: light-blue
 cover: "https://9to5google.files.wordpress.com/2016/11/twitter_launcher_shortcuts_1.jpg?quality=82&strip=all&w=2000&h=803"
-title: "OnePlus finalmente confirma Oneplus 2 não recebera atualização para o Android Nougat"
+title: "Oneplus 2 não recebera atualização para o Android Nougat"
 author: Rychillie
 date:   2017-06-12 09:00:00
 categories: Android
