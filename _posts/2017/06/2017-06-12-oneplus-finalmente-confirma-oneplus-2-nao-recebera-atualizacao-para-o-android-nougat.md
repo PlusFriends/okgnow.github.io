@@ -8,7 +8,7 @@ date:   2017-06-12 09:00:00
 categories: Android
 tags: oneplus atualizacao sistema nougat android update
 ---
-<p>Depois de muita especulação e desejosos dos proprietários, a OnePlus confirmou oficialmente ao <a href="http://www.androidauthority.com/oneplus-confirms-no-android-nougat-update-oneplus-2-779029"/>Android Authority</a> que a atualização do Nougat não será entregue para o OnePlus 2. A recusa de atualização vem após promessas de 24 meses de suporte de atualização no passado e uma afirmação direta  da empresa no ano passado de que o OnePlus 2 obteria Android N.</p>
+<p>Depois de muita especulação e desejosos dos proprietários, a OnePlus confirmou oficialmente ao <a href="http://www.androidauthority.com/oneplus-confirms-no-android-nougat-update-oneplus-2-779029">Android Authority</a> que a atualização do Nougat não será entregue para o OnePlus 2. A recusa de atualização vem após promessas de 24 meses de suporte de atualização no passado e uma afirmação direta  da empresa no ano passado de que o OnePlus 2 obteria Android N.<p/>
 
 <p>No entanto, a OnePlus disse que "o atendimento ao cliente tem relatado por muito tempo que estão felizes com o que estão fazendo com o software." vale notar que já foi confirmado que o Android O virá para o OnePlus 3 e 3T.</p>
 
