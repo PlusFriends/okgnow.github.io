@@ -1,7 +1,7 @@
 ---
 layout: post
 color: light-blue
-cover: "https://9to5google.files.wordpress.com/2016/11/twitter_launcher_shortcuts_1.jpg?quality=82&strip=all&w=2000&h=803"
+cover: "https://img.ibxk.com.br/2017/06/12/12124411871177.jpg"
 title: "Conheça os novos smartphones acessíveis Moto E4 e E4 Plus"
 author: Rychillie
 date:   2017-06-12 14:00:00
