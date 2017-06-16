@@ -4,7 +4,7 @@ color: light-blue
 cover: "https://9to5google.files.wordpress.com/2016/11/twitter_launcher_shortcuts_1.jpg?quality=82&strip=all&w=2000&h=803"
 title: "Twitter para Android testa arredondamento em Redesign"
 author: Rychillie
-date:   2017-06-12 08:00:00
+date:   2017-06-12 12:00:00
 categories: Android
 tags: Twitter aplicativo teste redesign android beta
 ---
